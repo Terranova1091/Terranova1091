@@ -51,5 +51,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=terranova1091&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/Terranova1091?theme=nord&font=Archivo%20Narrow" height="220" alt="LeetCode stat"  />
 </div>
